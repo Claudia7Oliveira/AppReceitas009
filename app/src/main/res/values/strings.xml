@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppReceotas009</string>
+
+    <!-- main -->
+    <string name="btn_add">Adicionar \n receita:</string>
+    <string name="btn_search">Buscar \n receita:</string>
+    <string name="btn_list">Listar \n receitas:</string>
+    <!-- cadastro -->
+    <string name="cad_receitas">Cadastro de receitas</string>
+    <string name="nome_receita">nome da receita</string>
+    <string name="tempo_receita">tempo de preparo</string>
+    <string name="ingredientes">ingredientes</string>
+    <string name="modo_preparo">Modo de preparo:</string>
+    <string name="rendimento">porções</string>
+    <string name="cat_receira">categoria:</string>
+    <string-array name="categoria">
+        <item>doces</item>
+        <item>drinks</item>
+        <item>aves</item>
+        <item>peixes</item>
+        <item>carnes</item>
+        <item>sobremesas</item>
+        <item>massas</item>
+        <item>sopas</item>
+        <item>...</item>
+    </string-array>
+    <string name="btn_save_rec">salvar receita</string>
+    <!-- list receitas -->
+    <string name="list_receitas">todas as receitas</string>
+
+
+    <!-- receita -->
+    <string name="nome">nome:</string>
+    <string name="rende">rende:</string>
+    <string name="porções">porçoes</string>
+</resources>
